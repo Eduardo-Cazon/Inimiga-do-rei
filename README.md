@@ -7,4 +7,4 @@ Seu processo de criação começou com uma pesquisa sobre o que é dominação, 
 Após determinar a crítica à dominação e a defesa da autogestão como valores do projeto, realizei uma análise dos principais estilos tipográficos observando seus aspectos objetivos, subjetivos, contexto de produção e características morfológicas. Também realizei uma análise de fontes contemporâneas feitas para causas sociais e assim pude identificar característica condizentes com a postura libertária.
 O projeto da fonte foi realizado no programa software livre FontForge.
 
-Para saber mais sobre a fonte lei o specimen.
+Para saber mais sobre a fonte leia o specimen.
