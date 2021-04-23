@@ -8,3 +8,4 @@ Após determinar a crítica à dominação e a defesa da autogestão como valore
 O projeto da fonte foi realizado no programa software livre FontForge.
 
 Para saber mais sobre a fonte leia o specimen.
+https://github.com/Eduardo-Cazon/Inimiga-do-rei/blob/main/Inimiga-do-rei_Specimen.pdf
